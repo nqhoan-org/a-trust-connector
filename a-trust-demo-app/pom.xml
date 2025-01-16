@@ -1,32 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.axonivy.connector.atrust</groupId>
   <artifactId>a-trust-demo-app</artifactId>
-  <version>12.0.0</version>
+  <version>12.0.2-SNAPSHOT</version>
   <packaging>pom</packaging>
   <scm>
-    <developerConnection>scm:git:https://github.com/axonivy-market/a-trust-connector.git</developerConnection>
-    <tag>a-trust-demo-app-12.0.0</tag>
+    <developerConnection>scm:git:https://github.com/nqhoan-org/a-trust-connector.git</developerConnection>
   </scm>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-  <repositories>
-    <repository>
-      <id>nexus.axonivy.com</id>
-      <url>https://nexus.axonivy.com</url>
-    </repository>
-    <repository>
-      <id>maven.axonivy.com</id>
-      <url>https://maven.axonivy.com</url>
-    </repository>
-  </repositories>
   <dependencies>
     <dependency>
       <groupId>com.axonivy.connector.atrust</groupId>
-      <artifactId>a-trust-connector-demo</artifactId>
+      <artifactId>a-trust-demo-app</artifactId>
       <version>12.0.0</version>
+      <type>iar</type>
+    </dependency>
+    <dependency>
+      <groupId>com.axonivy.connector.atrust</groupId>
+      <artifactId>a-trust-connector-demo</artifactId>
+      <version>12.0.2-SNAPSHOT</version>
       <type>iar</type>
     </dependency>
   </dependencies>
