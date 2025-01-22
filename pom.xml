@@ -12,8 +12,6 @@
     <module>a-trust-connector-test</module>
     <module>a-trust-connector-product</module>
     <module>a-trust-demo-app</module>
-    <module>a-trust-demo-app</module>
-    <module>a-trust-demo-app</module>
   </modules>
   <scm>
     <developerConnection>scm:git:https://github.com/nqhoan-org/a-trust-connector.git</developerConnection>
