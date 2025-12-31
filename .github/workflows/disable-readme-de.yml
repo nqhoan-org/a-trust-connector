@@ -1,0 +1,8 @@
+name: Disable README_DE.md
+
+on:
+  pull_request:
+
+jobs:
+  build:
+    uses: axonivy-market/github-workflows/.github/workflows/ci.yml@v6
