@@ -5,4 +5,4 @@ on:
 
 jobs:
   build:
-    uses: axonivy-market/github-workflows/.github/workflows/ci.yml@feature/MARP-3334-Maintenance-texts-open-source-translated-with-Weblate
+    uses: axonivy-market/github-workflows/.github/workflows/translation-locker.yml@feature/MARP-3334-Maintenance-texts-open-source-translated-with-Weblate
