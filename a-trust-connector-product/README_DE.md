@@ -3,7 +3,7 @@ um eine sichere Online-Kommunikation zu gewährleisten. Die **Signaturbox** von 
 Benutzer Dokumente sicher digital signieren können, um Authentizität (**Wer** signiert) und Integrität (**Was** wird signiert) zu gewährleisten.
 
 - Basiert auf REST Web Service Technologien.
-- Signiert PDFs.
+- Signiert PDFs.đâsdsa
 - Unterstützt dich mit einer  Demo-Implementierung, um deinen Integrationsaufwand zu reduzieren.
 - Ermöglicht es low code citizen developers bestehende Geschäftsprozesse mit Handy-Signaturfunktionen zu erweitern.
 
