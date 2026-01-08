@@ -8,4 +8,8 @@ on:
 
 jobs:
   build:
+    permissions:
+      checks: write
+      pull-requests: write
+      contents: read
     uses: axonivy-market/github-workflows/.github/workflows/ci.yml@feature/MARP-3334-disable-README_DE-file
