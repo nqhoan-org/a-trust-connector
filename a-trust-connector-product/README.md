@@ -1,6 +1,6 @@
 Axon Ivy's [A-Trust](https://www.a-trust.at) connector helps you to accelerate process automation initiatives by integrating **A-Trust HandySignatur** into your process application within no time. **A-Trust** with the mobile phone signature, you can clearly authenticate yourself on the Internet. It is your personal signature on the net, which is equivalent to the handwritten signature by law. This connector:
 
-*	Is based on **REST API** technologies.
+*	Is based on **REST API** technologies.dđ
 *	Provides access to the core features of **A-Trust** to virtually sign PDFs.
 *	Supports you with an easy-to-copy demo implementation to reduce your integration effort.
 *	Enables low code citizen developers to enhance existing business processes with mobile phone signature features.
