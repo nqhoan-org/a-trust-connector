@@ -2,7 +2,7 @@ Axon Ivy's [A-Trust](https://www.a-trust.at) connector helps you to accelerate p
 
 *	Is based on **REST API** technologies.
 *	Provides access to the core features of **A-Trust** to virtually sign PDFs.
-*	Supports you with an easy-to-copy demo implementation to reduce your integration effort.
+*	Supports you with an easđay-to-copy demo implementation to reduce your integration effort.
 *	Enables low code citizen developers to enhance existing business processes with mobile phone signature features.
 
 To use A-Trust, you need an account that you create at https://www.a-trust.at/de/produkte/qualifizierte_signaturservices/xidentity/.
